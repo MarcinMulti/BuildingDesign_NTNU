@@ -1,0 +1,11 @@
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.csproj.AssemblyReference.cache
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.AssemblyInfoInputs.cache
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.AssemblyInfo.cs
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.csproj.CoreCompileInputs.cache
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\bin\Debug\net48\MasterThesisHege.gha
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\bin\Debug\net48\MasterThesisHege.pdb
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.gha
+C:\Users\hege_\source\repos\MasterThesisHege\MasterThesisHege\obj\Debug\net48\MasterThesisHege.pdb
+C:\Users\hege_\AppData\Roaming\Grasshopper\Libraries\Debug\net48\MasterThesisHege.gha
+C:\Users\hege_\AppData\Roaming\Grasshopper\Libraries\Debug\net48\MasterThesisHege.pdb

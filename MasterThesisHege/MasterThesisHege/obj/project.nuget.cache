@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvk30opGCuymwThcWcWhLC1SpZOe1nSPcG5WwCNogYiPPMFeheGXSON9fF/pAiateVuFShdSSA4mWr4GCV2s9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hege_\\source\\repos\\MasterThesisHege\\MasterThesisHege\\MasterThesisHege.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hege_\\.nuget\\packages\\grasshopper\\8.0.23164.14305-wip\\grasshopper.8.0.23164.14305-wip.nupkg.sha512",
+    "C:\\Users\\hege_\\.nuget\\packages\\rhinocommon\\8.0.23164.14305-wip\\rhinocommon.8.0.23164.14305-wip.nupkg.sha512",
+    "C:\\Users\\hege_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\hege_\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\hege_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Grasshopper 8.0.23164.14305-wip' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Grasshopper",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RhinoCommon 8.0.23164.14305-wip' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RhinoCommon",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
